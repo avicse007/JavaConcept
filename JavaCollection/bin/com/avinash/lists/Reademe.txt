@@ -1,0 +1,31 @@
+1. Collection interfaces 
+============================
+List
+Set
+Map
+Queqe
+Stack 
+
+
+1. List Interface
+====================
+Implementation
+----------------
+ArrayList 
+LinkedList
+Vector
+-----------------------------------------------------------------------------
+ArrayList is not synchronized while vector is synchronized
+So Vector is thread safe so have performance impact and present fron java 1
+ArrayList is not thread safe performance present from java 1.2
+LinkedList in Java is a doubly linked list 
+-----------------------------------------------------------------------------
+add(object)
+addAll(collection)
+addAll(int index,collection c)
+clear
+constainAll(collection c)
+contains(object)
+If you wish to remove a element from list use iterator 
+
+

@@ -1,0 +1,14 @@
+Map
+Key pair value
+
+Implementation
+----------------
+HashTable     --> Thread safe version of HashMap
+			  --> Null key is not allowed	
+HashMap       --> unordered unsorted
+			  --> Null key is allowed	
+LinkedHashMap --> insertion order is maintained
+			  --> Slower insertion and deletion 
+			  --> Faster iteration	
+
+TreeHashMap   --> sorted order is maintained
